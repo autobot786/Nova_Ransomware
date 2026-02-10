@@ -319,7 +319,7 @@ Best for dynamic IP environments
 
 ## 👤 Author
 
-**Your Name**  
+**Sanjeev**  
 Incident Response / DFIR
 
 ---
