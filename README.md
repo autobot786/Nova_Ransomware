@@ -30,7 +30,7 @@ Nova_Ransomware/
 
 ---
 
-## 🔧 Environment & Technology Stack
+##  Environment & Technology Stack
 
 ### Endpoint Telemetry
 - **Microsoft Defender for Endpoint (MDE)**
