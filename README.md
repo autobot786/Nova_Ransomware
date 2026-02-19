@@ -6,7 +6,7 @@ A defensive, portfolio-grade **Incident Response Lead** repository documenting r
 
 ---
 
-## 📋 Overview
+##  Overview
 
 This repository provides:
 - **Log sources** required to investigate modern ransomware intrusions end-to-end
